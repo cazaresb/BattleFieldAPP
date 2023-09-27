@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.BattleFieldV1" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/BACKGROUND</item>
+    </style>
+</resources>

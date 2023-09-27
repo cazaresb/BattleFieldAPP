@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BattleField V1</string>
+    <string name="game_name"></string>
+    <string name="reset">Play Again</string>
+
+</resources>
